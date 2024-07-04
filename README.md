@@ -4,8 +4,6 @@ This is the login page
 
 ![image](https://github.com/dillon0007/E-Ticketing_System/assets/93643056/753aa3b7-2715-443e-9e97-c784ff11d570)
 
-This is the register page
-
 This is the home page of the website
 
 ![image](https://github.com/dillon0007/E-Ticketing_System/assets/93643056/4eecc250-05d3-4ebb-a273-efe63c46963c)
