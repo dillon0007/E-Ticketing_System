@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+@layer base {
+  body {
+    @apply bg-zinc-900 text-gray-300;
+  }
+  input {
+    @apply bg-zinc-800 py-3 px-4 rounded-xl border-solid border-2 border-zinc-700 text-gray-300;
+  }
+}
+
+* {
+  font-family: "DM Sans", sans-serif;
+}
