@@ -6,9 +6,4 @@ This is the login page
 
 This is the home page of the website
 
-![image](https://github.com/dillon0007/E-Ticketing_System/assets/93643056/4eecc250-05d3-4ebb-a273-efe63c46963c)
-
-This is the confirm booking page
-
-![image](https://github.com/dillon0007/E-Ticketing_System/assets/93643056/c5575800-016b-4a12-bd49-02b6e6529f89)
-
+![image](https://github.com/dillon0007/E-Ticketing_System/assets/93643056/f6a02cc7-83b0-445f-8609-301de02263a4)
